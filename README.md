@@ -25,7 +25,7 @@ Knowing your limit is something incredible and that's why I started in the world
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansantosw&langs_count=8&layout=compact&theme=dracula"
     />
   </a>
-  
+  &nbsp;
   <a href="https://github.com/jeansantosw?tab=repositories">
     <img
       align="center"
