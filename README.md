@@ -2,12 +2,12 @@ Hello guys.
 
 Knowing your limit is something incredible and that's why I started in the world of programming, my curiosity for solving problems took me to a world where I previously thought It was, "installing programs". Today I see myself within them through technologies like JavaScript, React and Nodejs. And now I know that every problem has a solution.
 
-ABOUT:
+### ABOUT:
     - JavaScript Developer 
     - ReactJS and NodeJS Student
     - Brazilian living in Portugal
 
-LANGUAGES AND TOOLS:
+###LANGUAGES AND TOOLS:
 
 ![TYPSCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
